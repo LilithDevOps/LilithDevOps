@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m Lilith
 
-<!--
-**LilithDevOps/LilithDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | Infrastructure Automation | Cloud Security
 
-Here are some ideas to get you started:
+I'm a DevOps and Cloud Engineer with 4+ years of experience automating infrastructure, managing secure hybrid environments, and supporting global SaaS platforms. I work with tools like **Terraform, Jenkins, AWS, Ansible**, and **Red Hat Linux** to build resilient, scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my hands-on portfolio with real-world DevOps projects, including:
+
+- 🔧 **EC2 provisioning with Terraform + NGINX**
+- 🔁 **CI/CD pipelines with Jenkins & Docker**
+- 🛡️ **Ansible-based Linux hardening & backup automation**
+- 🧠 **Python scripting for AWS Lambda + backups**
+- 🌍 **VPN uptime & remote access monitoring**
+
+---
+
+## 🧰 Tech Stack
+
+**Cloud:** AWS, Azure (basic)  
+**IaC:** Terraform, Ansible  
+**CI/CD:** Jenkins, GitHub Actions  
+**Scripting:** Python, Bash, PowerShell  
+**Systems:** Linux (Red Hat, Ubuntu), Windows Server  
+**Security:** IAM, VPNs, Patch Management  
+**Tools:** Git, Jira, Confluence, Docker
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/lilith-roberts/)
+- 📧 Email: lilith.r.flow@gmail.com
+
+---
+
+🛠 *Check back for ongoing updates — new projects dropping weekly.*
